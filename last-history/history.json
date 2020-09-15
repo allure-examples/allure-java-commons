@@ -1,0 +1,102 @@
+{
+  "7e2cb2a5a619dac4c42229f34d56b18" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "72d26c9ed89a6fea",
+      "reportUrl" : "https://allure-examples.github.io/allure-java-commons/1//#testresult/72d26c9ed89a6fea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600179564667,
+        "stop" : 1600179564688,
+        "duration" : 21
+      }
+    } ]
+  },
+  "78667299a1bb82551c708c8abc0ed6f5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "10a927c69b6bf440",
+      "reportUrl" : "https://allure-examples.github.io/allure-java-commons/1//#testresult/10a927c69b6bf440",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600179564593,
+        "stop" : 1600179564600,
+        "duration" : 7
+      }
+    } ]
+  },
+  "26bdad74a77bd173a60ce0989d817c4b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "87f65cc48ed6241b",
+      "reportUrl" : "https://allure-examples.github.io/allure-java-commons/1//#testresult/87f65cc48ed6241b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600179564609,
+        "stop" : 1600179564632,
+        "duration" : 23
+      }
+    } ]
+  },
+  "9c0115edfb38e55a9d98b06f9e72a0df" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8d67c8b5dc65a2cf",
+      "reportUrl" : "https://allure-examples.github.io/allure-java-commons/1//#testresult/8d67c8b5dc65a2cf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600179564655,
+        "stop" : 1600179564660,
+        "duration" : 5
+      }
+    } ]
+  },
+  "1f2bd9cda9d261380becc44109209e10" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ad83f87997d7fd81",
+      "reportUrl" : "https://allure-examples.github.io/allure-java-commons/1//#testresult/ad83f87997d7fd81",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600179564402,
+        "stop" : 1600179564441,
+        "duration" : 39
+      }
+    } ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "uid" : "72d26c9ed89a6fea",
+  "name" : "allureAttachmentAnnotationTest()",
+  "fullName" : "io.qameta.allure.examples.AllureAttachmentTest.allureAttachmentAnnotationTest",
+  "historyId" : "7e2cb2a5a619dac4c42229f34d56b18",
+  "time" : {
+    "start" : 1600179564667,
+    "stop" : 1600179564688,
+    "duration" : 21
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "19b97f82ffab0863",
+      "name" : "Attachment name: test.txt",
+      "source" : "19b97f82ffab0863.txt",
+      "type" : "text/plain",
+      "size" : 16
+    }, {
+      "uid" : "658ee77cb624264c",
+      "name" : "Attachment name: index.html",
+      "source" : "658ee77cb624264c.html",
+      "type" : "text/html",
+      "size" : 25
+    }, {
+      "uid" : "11703027d643c794",
+      "name" : "XML_file",
+      "source" : "11703027d643c794.xml",
+      "type" : "text/xml",
+      "size" : 23
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az183"
+  }, {
+    "name" : "thread",
+    "value" : "4530@fv-az183.ForkJoinPool-1-worker-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.AllureAttachmentTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.AllureAttachmentTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "allureAttachmentAnnotationTest"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.AllureAttachmentTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "72d26c9ed89a6fea.json",
+  "parameterValues" : [ ]
+}

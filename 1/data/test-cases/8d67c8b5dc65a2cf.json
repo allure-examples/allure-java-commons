@@ -1,0 +1,110 @@
+{
+  "uid" : "8d67c8b5dc65a2cf",
+  "name" : "allureSimpleAttachmentTest()",
+  "fullName" : "io.qameta.allure.examples.AllureAttachmentTest.allureSimpleAttachmentTest",
+  "historyId" : "9c0115edfb38e55a9d98b06f9e72a0df",
+  "time" : {
+    "start" : 1600179564655,
+    "stop" : 1600179564660,
+    "duration" : 5
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fa3217970c563e96",
+      "name" : "file1.txt",
+      "source" : "fa3217970c563e96.txt",
+      "type" : "text/plain",
+      "size" : 16
+    }, {
+      "uid" : "5a745976c979a221",
+      "name" : "file2.txt",
+      "source" : "5a745976c979a221.txt",
+      "type" : "text/plain",
+      "size" : 16
+    }, {
+      "uid" : "35b3adb612c23972",
+      "name" : "file3.txt",
+      "source" : "35b3adb612c23972.txt",
+      "type" : "text/plain",
+      "size" : 16
+    }, {
+      "uid" : "1c327f6495a15c81",
+      "name" : "file4.txt",
+      "source" : "1c327f6495a15c81.txt",
+      "type" : "text/plain",
+      "size" : 16
+    }, {
+      "uid" : "ca17efd250450258",
+      "name" : "content1.xml",
+      "source" : "ca17efd250450258.xml",
+      "type" : "application/xml",
+      "size" : 58
+    }, {
+      "uid" : "1b602757e36db6d4",
+      "name" : "content2.xml",
+      "source" : "1b602757e36db6d4.xml",
+      "type" : "application/xml",
+      "size" : 58
+    }, {
+      "uid" : "57ab6af9d36156b1",
+      "name" : "content3.xml",
+      "source" : "57ab6af9d36156b1.xml",
+      "type" : "text/xml",
+      "size" : 58
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 7,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az183"
+  }, {
+    "name" : "thread",
+    "value" : "4530@fv-az183.ForkJoinPool-1-worker-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.AllureAttachmentTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.AllureAttachmentTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "allureSimpleAttachmentTest"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.AllureAttachmentTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8d67c8b5dc65a2cf.json",
+  "parameterValues" : [ ]
+}

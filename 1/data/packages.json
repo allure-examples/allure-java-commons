@@ -1,0 +1,82 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "io.qameta.allure.examples",
+    "children" : [ {
+      "name" : "AllureStepTest",
+      "children" : [ {
+        "name" : "allureSimpleStepTest",
+        "uid" : "ad83f87997d7fd81",
+        "parentUid" : "937a70e50678f346c18cf926c0914137",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600179564402,
+          "stop" : 1600179564441,
+          "duration" : 39
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "allureLambdaStepTest",
+        "uid" : "10a927c69b6bf440",
+        "parentUid" : "937a70e50678f346c18cf926c0914137",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600179564593,
+          "stop" : 1600179564600,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "allureStepAnnotationTest",
+        "uid" : "87f65cc48ed6241b",
+        "parentUid" : "937a70e50678f346c18cf926c0914137",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600179564609,
+          "stop" : 1600179564632,
+          "duration" : 23
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "937a70e50678f346c18cf926c0914137"
+    }, {
+      "name" : "AllureAttachmentTest",
+      "children" : [ {
+        "name" : "allureSimpleAttachmentTest",
+        "uid" : "8d67c8b5dc65a2cf",
+        "parentUid" : "5b1116cf10887f09cd288e2576cace76",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600179564655,
+          "stop" : 1600179564660,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "allureAttachmentAnnotationTest",
+        "uid" : "72d26c9ed89a6fea",
+        "parentUid" : "5b1116cf10887f09cd288e2576cace76",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600179564667,
+          "stop" : 1600179564688,
+          "duration" : 21
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5b1116cf10887f09cd288e2576cace76"
+    } ],
+    "uid" : "io.qameta.allure.examples"
+  } ],
+  "name" : "packages"
+}
