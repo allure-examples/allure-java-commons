@@ -1,0 +1,72 @@
+{
+  "uid" : "997091d609c09a76",
+  "name" : "allureLambdaSuiteTest()",
+  "fullName" : "io.qameta.allure.examples.AllureBehaviorsMappingTest.allureLambdaSuiteTest",
+  "historyId" : "d4b5033273f65acdf244a9bcbe2c1889",
+  "time" : {
+    "start" : 1600235245425,
+    "stop" : 1600235245428,
+    "duration" : 3
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Story2 from class annotation"
+  }, {
+    "name" : "feature",
+    "value" : "Feature from class annotation"
+  }, {
+    "name" : "epic",
+    "value" : "Epic from class annotation"
+  }, {
+    "name" : "story",
+    "value" : "Story from class annotation"
+  }, {
+    "name" : "host",
+    "value" : "fv-az67"
+  }, {
+    "name" : "thread",
+    "value" : "4543@fv-az67.ForkJoinPool-1-worker-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.AllureBehaviorsMappingTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.AllureBehaviorsMappingTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "allureLambdaSuiteTest"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.AllureBehaviorsMappingTest"
+  }, {
+    "name" : "suite",
+    "value" : "Suite from lambda annotation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "997091d609c09a76.json",
+  "parameterValues" : [ ]
+}

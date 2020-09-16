@@ -1,0 +1,163 @@
+{
+  "uid" : "54cbd74085fd73ae",
+  "name" : "allureSimpleStepTest()",
+  "fullName" : "io.qameta.allure.examples.AllureStepTest.allureSimpleStepTest",
+  "historyId" : "1f2bd9cda9d261380becc44109209e10",
+  "time" : {
+    "start" : 1600235245128,
+    "stop" : 1600235245161,
+    "duration" : 33
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Simple step",
+      "time" : {
+        "start" : 1600235245147,
+        "stop" : 1600235245148,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Simple step with failed status",
+      "time" : {
+        "start" : 1600235245148,
+        "stop" : 1600235245148,
+        "duration" : 0
+      },
+      "status" : "failed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Simple step with skipped status",
+      "time" : {
+        "start" : 1600235245148,
+        "stop" : 1600235245148,
+        "duration" : 0
+      },
+      "status" : "skipped",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Simple step with broken status",
+      "time" : {
+        "start" : 1600235245148,
+        "stop" : 1600235245149,
+        "duration" : 1
+      },
+      "status" : "broken",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Simple step with passed status",
+      "time" : {
+        "start" : 1600235245149,
+        "stop" : 1600235245149,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az67"
+  }, {
+    "name" : "thread",
+    "value" : "4543@fv-az67.ForkJoinPool-1-worker-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.AllureStepTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.AllureStepTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "allureSimpleStepTest"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.AllureStepTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "ad83f87997d7fd81",
+        "reportUrl" : "https://allure-examples.github.io/allure-java-commons/1//#testresult/ad83f87997d7fd81",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600179564402,
+          "stop" : 1600179564441,
+          "duration" : 39
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "54cbd74085fd73ae.json",
+  "parameterValues" : [ ]
+}

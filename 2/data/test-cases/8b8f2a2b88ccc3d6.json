@@ -1,0 +1,106 @@
+{
+  "uid" : "8b8f2a2b88ccc3d6",
+  "name" : "allureAttachmentAnnotationTest()",
+  "fullName" : "io.qameta.allure.examples.AllureAttachmentTest.allureAttachmentAnnotationTest",
+  "historyId" : "7e2cb2a5a619dac4c42229f34d56b18",
+  "time" : {
+    "start" : 1600235245387,
+    "stop" : 1600235245405,
+    "duration" : 18
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "260e66f24c2468eb",
+      "name" : "Attachment name: test.txt",
+      "source" : "260e66f24c2468eb.txt",
+      "type" : "text/plain",
+      "size" : 16
+    }, {
+      "uid" : "60fc410f4e4fcc8d",
+      "name" : "Attachment name: index.html",
+      "source" : "60fc410f4e4fcc8d.html",
+      "type" : "text/html",
+      "size" : 25
+    }, {
+      "uid" : "b279f5db3bbc2070",
+      "name" : "XML_file",
+      "source" : "b279f5db3bbc2070.xml",
+      "type" : "text/xml",
+      "size" : 23
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az67"
+  }, {
+    "name" : "thread",
+    "value" : "4543@fv-az67.ForkJoinPool-1-worker-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.AllureAttachmentTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.AllureAttachmentTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "allureAttachmentAnnotationTest"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.AllureAttachmentTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "72d26c9ed89a6fea",
+        "reportUrl" : "https://allure-examples.github.io/allure-java-commons/1//#testresult/72d26c9ed89a6fea",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600179564667,
+          "stop" : 1600179564688,
+          "duration" : 21
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "8b8f2a2b88ccc3d6.json",
+  "parameterValues" : [ ]
+}
