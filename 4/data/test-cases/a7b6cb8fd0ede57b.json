@@ -1,0 +1,187 @@
+{
+  "uid" : "a7b6cb8fd0ede57b",
+  "name" : "allureStepAnnotationTest()",
+  "fullName" : "io.qameta.allure.examples.AllureStepTest.allureStepAnnotationTest",
+  "historyId" : "26bdad74a77bd173a60ce0989d817c4b",
+  "time" : {
+    "start" : 1600349283953,
+    "stop" : 1600349283982,
+    "duration" : 29
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Simple test method with step annotation",
+      "time" : {
+        "start" : 1600349283973,
+        "stop" : 1600349283975,
+        "duration" : 2
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Simple step inside test method",
+        "time" : {
+          "start" : 1600349283973,
+          "stop" : 1600349283973,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Parametrized test method with step annotation'",
+      "time" : {
+        "start" : 1600349283976,
+        "stop" : 1600349283976,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Method parameter: method parameter",
+        "time" : {
+          "start" : 1600349283976,
+          "stop" : 1600349283976,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "param",
+        "value" : "method parameter"
+      } ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Parametrized test method with fields: 'field parameter'",
+      "time" : {
+        "start" : 1600349283982,
+        "stop" : 1600349283982,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "param",
+        "value" : "field parameter"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az183"
+  }, {
+    "name" : "thread",
+    "value" : "4091@fv-az183.ForkJoinPool-1-worker-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.AllureStepTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.AllureStepTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "allureStepAnnotationTest"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.AllureStepTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "c8f0feedffb09b50",
+        "reportUrl" : "https://allure-examples.github.io/allure-java-commons/3//#testresult/c8f0feedffb09b50",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600328325168,
+          "stop" : 1600328325184,
+          "duration" : 16
+        }
+      }, {
+        "uid" : "149f0275120166f2",
+        "reportUrl" : "https://allure-examples.github.io/allure-java-commons/2//#testresult/149f0275120166f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600235245318,
+          "stop" : 1600235245356,
+          "duration" : 38
+        }
+      }, {
+        "uid" : "87f65cc48ed6241b",
+        "reportUrl" : "https://allure-examples.github.io/allure-java-commons/1//#testresult/87f65cc48ed6241b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600179564609,
+          "stop" : 1600179564632,
+          "duration" : 23
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "a7b6cb8fd0ede57b.json",
+  "parameterValues" : [ ]
+}

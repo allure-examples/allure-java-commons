@@ -1,0 +1,151 @@
+[ {
+  "uid" : "d69c889670421",
+  "name" : "allureSimpleStepTest()",
+  "time" : {
+    "start" : 1600349283732,
+    "stop" : 1600349283767,
+    "duration" : 35
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ee8cd423163d389a",
+  "name" : "allureOneTestParameterTest()",
+  "time" : {
+    "start" : 1600349284005,
+    "stop" : 1600349284006,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9df6ca8e989d45ca",
+  "name" : "allureSimpleDescriptionTest()",
+  "time" : {
+    "start" : 1600349284116,
+    "stop" : 1600349284117,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b1eadc5902274a71",
+  "name" : "allureAttachmentAnnotationTest()",
+  "time" : {
+    "start" : 1600349284030,
+    "stop" : 1600349284048,
+    "duration" : 18
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4a70d2aa01d4fd68",
+  "name" : "allureHTMLDescriptionTest()",
+  "time" : {
+    "start" : 1600349284112,
+    "stop" : 1600349284113,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ed09323c0f298d64",
+  "name" : "allureLambdaStepTest()",
+  "time" : {
+    "start" : 1600349283935,
+    "stop" : 1600349283944,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9bcd56f4d7c42b78",
+  "name" : "allureLambdaSuiteTest()",
+  "time" : {
+    "start" : 1600349284067,
+    "stop" : 1600349284069,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a7b6cb8fd0ede57b",
+  "name" : "allureStepAnnotationTest()",
+  "time" : {
+    "start" : 1600349283953,
+    "stop" : 1600349283982,
+    "duration" : 29
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3bc3399e00858939",
+  "name" : "allureLambdaBehaviorsMappingTest()",
+  "time" : {
+    "start" : 1600349284074,
+    "stop" : 1600349284076,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bb1a073dd03905dd",
+  "name" : "allureStoryMappingTest()",
+  "time" : {
+    "start" : 1600349284093,
+    "stop" : 1600349284094,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "95fc6e8840d4c817",
+  "name" : "allureFeatureMappingTest()",
+  "time" : {
+    "start" : 1600349284082,
+    "stop" : 1600349284084,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b94a2aed3cf184bb",
+  "name" : "allureSimpleAttachmentTest()",
+  "time" : {
+    "start" : 1600349284015,
+    "stop" : 1600349284024,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "da0b852a26b97259",
+  "name" : "allureEpicMappingTest()",
+  "time" : {
+    "start" : 1600349284087,
+    "stop" : 1600349284089,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f7ccef2be2ec32c",
+  "name" : "allureTestParametersTest()",
+  "time" : {
+    "start" : 1600349283997,
+    "stop" : 1600349283999,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "edde164b15e71ad3",
+  "name" : "allureBehaviorsMappingTest()",
+  "time" : {
+    "start" : 1600349284100,
+    "stop" : 1600349284101,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

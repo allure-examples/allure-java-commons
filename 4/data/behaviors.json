@@ -1,0 +1,860 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "allureSimpleStepTest()",
+    "uid" : "d69c889670421",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600349283732,
+      "stop" : 1600349283767,
+      "duration" : 35
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "allureLambdaStepTest()",
+    "uid" : "ed09323c0f298d64",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600349283935,
+      "stop" : 1600349283944,
+      "duration" : 9
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "allureStepAnnotationTest()",
+    "uid" : "a7b6cb8fd0ede57b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600349283953,
+      "stop" : 1600349283982,
+      "duration" : 29
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "allureTestParametersTest()",
+    "uid" : "9f7ccef2be2ec32c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600349283997,
+      "stop" : 1600349283999,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "value1", "value2", "value3" ]
+  }, {
+    "name" : "allureOneTestParameterTest()",
+    "uid" : "ee8cd423163d389a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600349284005,
+      "stop" : 1600349284006,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "value" ]
+  }, {
+    "name" : "allureSimpleAttachmentTest()",
+    "uid" : "b94a2aed3cf184bb",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600349284015,
+      "stop" : 1600349284024,
+      "duration" : 9
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "allureAttachmentAnnotationTest()",
+    "uid" : "b1eadc5902274a71",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600349284030,
+      "stop" : 1600349284048,
+      "duration" : 18
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Epic from class annotation",
+    "children" : [ {
+      "name" : "Feature from class annotation",
+      "children" : [ {
+        "name" : "Story from class annotation",
+        "children" : [ {
+          "name" : "allureLambdaSuiteTest()",
+          "uid" : "9bcd56f4d7c42b78",
+          "parentUid" : "3c4edfa2854137cb1e2c87b6fb77cd66",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284067,
+            "stop" : 1600349284069,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "allureLambdaBehaviorsMappingTest()",
+          "uid" : "3bc3399e00858939",
+          "parentUid" : "3c4edfa2854137cb1e2c87b6fb77cd66",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284074,
+            "stop" : 1600349284076,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "allureFeatureMappingTest()",
+          "uid" : "95fc6e8840d4c817",
+          "parentUid" : "3c4edfa2854137cb1e2c87b6fb77cd66",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284082,
+            "stop" : 1600349284084,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "allureEpicMappingTest()",
+          "uid" : "da0b852a26b97259",
+          "parentUid" : "3c4edfa2854137cb1e2c87b6fb77cd66",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284087,
+            "stop" : 1600349284089,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "allureStoryMappingTest()",
+          "uid" : "bb1a073dd03905dd",
+          "parentUid" : "3c4edfa2854137cb1e2c87b6fb77cd66",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284093,
+            "stop" : 1600349284094,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "allureBehaviorsMappingTest()",
+          "uid" : "edde164b15e71ad3",
+          "parentUid" : "3c4edfa2854137cb1e2c87b6fb77cd66",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284100,
+            "stop" : 1600349284101,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3c4edfa2854137cb1e2c87b6fb77cd66"
+      }, {
+        "name" : "Story2 from class annotation",
+        "children" : [ {
+          "name" : "allureLambdaSuiteTest()",
+          "uid" : "9bcd56f4d7c42b78",
+          "parentUid" : "fe09eecdf731a4d6af8be057e44f4aad",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284067,
+            "stop" : 1600349284069,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "allureLambdaBehaviorsMappingTest()",
+          "uid" : "3bc3399e00858939",
+          "parentUid" : "fe09eecdf731a4d6af8be057e44f4aad",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284074,
+            "stop" : 1600349284076,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "allureFeatureMappingTest()",
+          "uid" : "95fc6e8840d4c817",
+          "parentUid" : "fe09eecdf731a4d6af8be057e44f4aad",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284082,
+            "stop" : 1600349284084,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "allureEpicMappingTest()",
+          "uid" : "da0b852a26b97259",
+          "parentUid" : "fe09eecdf731a4d6af8be057e44f4aad",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284087,
+            "stop" : 1600349284089,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "allureStoryMappingTest()",
+          "uid" : "bb1a073dd03905dd",
+          "parentUid" : "fe09eecdf731a4d6af8be057e44f4aad",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284093,
+            "stop" : 1600349284094,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "allureBehaviorsMappingTest()",
+          "uid" : "edde164b15e71ad3",
+          "parentUid" : "fe09eecdf731a4d6af8be057e44f4aad",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284100,
+            "stop" : 1600349284101,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "fe09eecdf731a4d6af8be057e44f4aad"
+      }, {
+        "name" : "Story from lambda method",
+        "children" : [ {
+          "name" : "allureLambdaBehaviorsMappingTest()",
+          "uid" : "3bc3399e00858939",
+          "parentUid" : "8836bd97f7bb0db19fad5e0977115384",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284074,
+            "stop" : 1600349284076,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "8836bd97f7bb0db19fad5e0977115384"
+      }, {
+        "name" : "Story2 from test annotation",
+        "children" : [ {
+          "name" : "allureStoryMappingTest()",
+          "uid" : "bb1a073dd03905dd",
+          "parentUid" : "3ddb3be85c68a99d59428ac6af6e686b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284093,
+            "stop" : 1600349284094,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3ddb3be85c68a99d59428ac6af6e686b"
+      }, {
+        "name" : "Story2 from lambda method",
+        "children" : [ {
+          "name" : "allureStoryMappingTest()",
+          "uid" : "bb1a073dd03905dd",
+          "parentUid" : "0b2a5d7d37c0ed36a1c343161d5c4cd9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284093,
+            "stop" : 1600349284094,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "0b2a5d7d37c0ed36a1c343161d5c4cd9"
+      }, {
+        "name" : "Story from test annotation",
+        "children" : [ {
+          "name" : "allureBehaviorsMappingTest()",
+          "uid" : "edde164b15e71ad3",
+          "parentUid" : "ddc728b73db5dc30fe00b3efe703bf7b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284100,
+            "stop" : 1600349284101,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "ddc728b73db5dc30fe00b3efe703bf7b"
+      } ],
+      "uid" : "da8d604f0a682a9953e9f72958ffb511"
+    }, {
+      "name" : "Feature from lambda method",
+      "children" : [ {
+        "name" : "Story from class annotation",
+        "children" : [ {
+          "name" : "allureLambdaBehaviorsMappingTest()",
+          "uid" : "3bc3399e00858939",
+          "parentUid" : "0b3fbf144a05604e133f65711bc43508",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284074,
+            "stop" : 1600349284076,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "0b3fbf144a05604e133f65711bc43508"
+      }, {
+        "name" : "Story2 from class annotation",
+        "children" : [ {
+          "name" : "allureLambdaBehaviorsMappingTest()",
+          "uid" : "3bc3399e00858939",
+          "parentUid" : "8f5e742eccb2e2995576ae1dba133fc4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284074,
+            "stop" : 1600349284076,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "8f5e742eccb2e2995576ae1dba133fc4"
+      }, {
+        "name" : "Story from lambda method",
+        "children" : [ {
+          "name" : "allureLambdaBehaviorsMappingTest()",
+          "uid" : "3bc3399e00858939",
+          "parentUid" : "fa6776415d7fa29b97d4ac6dc7d09c7f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284074,
+            "stop" : 1600349284076,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "fa6776415d7fa29b97d4ac6dc7d09c7f"
+      } ],
+      "uid" : "a1c7088111bd6d62f3f683ebcad21a55"
+    }, {
+      "name" : "Feature2 from test annotation",
+      "children" : [ {
+        "name" : "Story from class annotation",
+        "children" : [ {
+          "name" : "allureFeatureMappingTest()",
+          "uid" : "95fc6e8840d4c817",
+          "parentUid" : "c19bec49aea1d8838907ae964fb003fe",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284082,
+            "stop" : 1600349284084,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "c19bec49aea1d8838907ae964fb003fe"
+      }, {
+        "name" : "Story2 from class annotation",
+        "children" : [ {
+          "name" : "allureFeatureMappingTest()",
+          "uid" : "95fc6e8840d4c817",
+          "parentUid" : "13530dcd41fd5fa9bd64f54aa2e32715",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284082,
+            "stop" : 1600349284084,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "13530dcd41fd5fa9bd64f54aa2e32715"
+      } ],
+      "uid" : "0290bee71efe543481ba9cdb7b53fdfc"
+    }, {
+      "name" : "Feature2 from lambda method",
+      "children" : [ {
+        "name" : "Story from class annotation",
+        "children" : [ {
+          "name" : "allureFeatureMappingTest()",
+          "uid" : "95fc6e8840d4c817",
+          "parentUid" : "e6ccecb0d86022fc225a2465ebf6be89",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284082,
+            "stop" : 1600349284084,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "e6ccecb0d86022fc225a2465ebf6be89"
+      }, {
+        "name" : "Story2 from class annotation",
+        "children" : [ {
+          "name" : "allureFeatureMappingTest()",
+          "uid" : "95fc6e8840d4c817",
+          "parentUid" : "6748fcdf63aae2843d4fcadea665175d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284082,
+            "stop" : 1600349284084,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6748fcdf63aae2843d4fcadea665175d"
+      } ],
+      "uid" : "b795d14647e0fcc925a2886668d643cc"
+    }, {
+      "name" : "Feature from test annotation",
+      "children" : [ {
+        "name" : "Story2 from class annotation",
+        "children" : [ {
+          "name" : "allureBehaviorsMappingTest()",
+          "uid" : "edde164b15e71ad3",
+          "parentUid" : "ffe561662543e640fc377e906aa85719",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284100,
+            "stop" : 1600349284101,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "ffe561662543e640fc377e906aa85719"
+      }, {
+        "name" : "Story from class annotation",
+        "children" : [ {
+          "name" : "allureBehaviorsMappingTest()",
+          "uid" : "edde164b15e71ad3",
+          "parentUid" : "f1d59c24753f83d02e43fe5ccfee7046",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284100,
+            "stop" : 1600349284101,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f1d59c24753f83d02e43fe5ccfee7046"
+      }, {
+        "name" : "Story from test annotation",
+        "children" : [ {
+          "name" : "allureBehaviorsMappingTest()",
+          "uid" : "edde164b15e71ad3",
+          "parentUid" : "f8f1ba49957484a5bec714f76e96ca88",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284100,
+            "stop" : 1600349284101,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f8f1ba49957484a5bec714f76e96ca88"
+      } ],
+      "uid" : "9e0005baa34b84f4b5b087c987b3d42e"
+    } ],
+    "uid" : "a1197bcb9c99df85af470b978a356ada"
+  }, {
+    "name" : "Epic from lambda method",
+    "children" : [ {
+      "name" : "Feature from class annotation",
+      "children" : [ {
+        "name" : "Story from class annotation",
+        "children" : [ {
+          "name" : "allureLambdaBehaviorsMappingTest()",
+          "uid" : "3bc3399e00858939",
+          "parentUid" : "cb6afa1558b7b990efe46592b17b1903",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284074,
+            "stop" : 1600349284076,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "cb6afa1558b7b990efe46592b17b1903"
+      }, {
+        "name" : "Story2 from class annotation",
+        "children" : [ {
+          "name" : "allureLambdaBehaviorsMappingTest()",
+          "uid" : "3bc3399e00858939",
+          "parentUid" : "c82a5fbb45b2c19a94475acf85fcc471",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284074,
+            "stop" : 1600349284076,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "c82a5fbb45b2c19a94475acf85fcc471"
+      }, {
+        "name" : "Story from lambda method",
+        "children" : [ {
+          "name" : "allureLambdaBehaviorsMappingTest()",
+          "uid" : "3bc3399e00858939",
+          "parentUid" : "ec27ad038ac100898b2c09b29927e28e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284074,
+            "stop" : 1600349284076,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "ec27ad038ac100898b2c09b29927e28e"
+      } ],
+      "uid" : "697e8ee452d4a03eecf402e4699d907f"
+    }, {
+      "name" : "Feature from lambda method",
+      "children" : [ {
+        "name" : "Story from class annotation",
+        "children" : [ {
+          "name" : "allureLambdaBehaviorsMappingTest()",
+          "uid" : "3bc3399e00858939",
+          "parentUid" : "13f9abd18b0dc08966b5f2692d7fd58d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284074,
+            "stop" : 1600349284076,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "13f9abd18b0dc08966b5f2692d7fd58d"
+      }, {
+        "name" : "Story2 from class annotation",
+        "children" : [ {
+          "name" : "allureLambdaBehaviorsMappingTest()",
+          "uid" : "3bc3399e00858939",
+          "parentUid" : "de9baccb866eec8ea25d98e134b5ef86",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284074,
+            "stop" : 1600349284076,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "de9baccb866eec8ea25d98e134b5ef86"
+      }, {
+        "name" : "Story from lambda method",
+        "children" : [ {
+          "name" : "allureLambdaBehaviorsMappingTest()",
+          "uid" : "3bc3399e00858939",
+          "parentUid" : "6c88be4e0863525a6a18cdf5c013f87e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284074,
+            "stop" : 1600349284076,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6c88be4e0863525a6a18cdf5c013f87e"
+      } ],
+      "uid" : "328d490efc3ae0a4b6a4f6a7bef9e01b"
+    } ],
+    "uid" : "c415968b7d5b0462919a9c7b0634b825"
+  }, {
+    "name" : "Epic2 from test annotation",
+    "children" : [ {
+      "name" : "Feature from class annotation",
+      "children" : [ {
+        "name" : "Story2 from class annotation",
+        "children" : [ {
+          "name" : "allureEpicMappingTest()",
+          "uid" : "da0b852a26b97259",
+          "parentUid" : "4376f2d7338209373e434150c1749279",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284087,
+            "stop" : 1600349284089,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "4376f2d7338209373e434150c1749279"
+      }, {
+        "name" : "Story from class annotation",
+        "children" : [ {
+          "name" : "allureEpicMappingTest()",
+          "uid" : "da0b852a26b97259",
+          "parentUid" : "6aaf918fa6e39870fe6ddcc6b6d44ae2",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284087,
+            "stop" : 1600349284089,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6aaf918fa6e39870fe6ddcc6b6d44ae2"
+      } ],
+      "uid" : "5932f597acdbbae77724894bbd402b87"
+    } ],
+    "uid" : "c9c92410a5197b7284421e85cd8888c0"
+  }, {
+    "name" : "Epic2 from lambda method",
+    "children" : [ {
+      "name" : "Feature from class annotation",
+      "children" : [ {
+        "name" : "Story2 from class annotation",
+        "children" : [ {
+          "name" : "allureEpicMappingTest()",
+          "uid" : "da0b852a26b97259",
+          "parentUid" : "fd77a916a4df874c6afc99ab68933903",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284087,
+            "stop" : 1600349284089,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "fd77a916a4df874c6afc99ab68933903"
+      }, {
+        "name" : "Story from class annotation",
+        "children" : [ {
+          "name" : "allureEpicMappingTest()",
+          "uid" : "da0b852a26b97259",
+          "parentUid" : "33369876690ab1e12b66f629bd000a02",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284087,
+            "stop" : 1600349284089,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "33369876690ab1e12b66f629bd000a02"
+      } ],
+      "uid" : "8c3336377023d894d933e3e62c77e516"
+    } ],
+    "uid" : "0b55dcde6ea7eb64765ba7715e8abec0"
+  }, {
+    "name" : "Epic from test annotation",
+    "children" : [ {
+      "name" : "Feature from class annotation",
+      "children" : [ {
+        "name" : "Story2 from class annotation",
+        "children" : [ {
+          "name" : "allureBehaviorsMappingTest()",
+          "uid" : "edde164b15e71ad3",
+          "parentUid" : "50af55ec5816c45a43c96d44b3c61d8e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284100,
+            "stop" : 1600349284101,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "50af55ec5816c45a43c96d44b3c61d8e"
+      }, {
+        "name" : "Story from class annotation",
+        "children" : [ {
+          "name" : "allureBehaviorsMappingTest()",
+          "uid" : "edde164b15e71ad3",
+          "parentUid" : "38fab8a1dbb7d3adbc3571d04f28c246",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284100,
+            "stop" : 1600349284101,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "38fab8a1dbb7d3adbc3571d04f28c246"
+      }, {
+        "name" : "Story from test annotation",
+        "children" : [ {
+          "name" : "allureBehaviorsMappingTest()",
+          "uid" : "edde164b15e71ad3",
+          "parentUid" : "d938d9e0efe7c5382e86e67b284722f6",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284100,
+            "stop" : 1600349284101,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "d938d9e0efe7c5382e86e67b284722f6"
+      } ],
+      "uid" : "a0aa2873e40c04937f1e4aa5e0c004b6"
+    }, {
+      "name" : "Feature from test annotation",
+      "children" : [ {
+        "name" : "Story2 from class annotation",
+        "children" : [ {
+          "name" : "allureBehaviorsMappingTest()",
+          "uid" : "edde164b15e71ad3",
+          "parentUid" : "dd1e5488cca46a95621a41a1017c867a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284100,
+            "stop" : 1600349284101,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "dd1e5488cca46a95621a41a1017c867a"
+      }, {
+        "name" : "Story from class annotation",
+        "children" : [ {
+          "name" : "allureBehaviorsMappingTest()",
+          "uid" : "edde164b15e71ad3",
+          "parentUid" : "af0d14495ea10fc1b5ee8a493db95990",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284100,
+            "stop" : 1600349284101,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "af0d14495ea10fc1b5ee8a493db95990"
+      }, {
+        "name" : "Story from test annotation",
+        "children" : [ {
+          "name" : "allureBehaviorsMappingTest()",
+          "uid" : "edde164b15e71ad3",
+          "parentUid" : "78c7d3520050592bd45ccc78345f9cf0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600349284100,
+            "stop" : 1600349284101,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "78c7d3520050592bd45ccc78345f9cf0"
+      } ],
+      "uid" : "d26b01850b8b0475ee46b8f7e466d9b6"
+    } ],
+    "uid" : "38454dd1f8fe3dbacb46fcc8f5d2b5be"
+  }, {
+    "name" : "allureHTMLDescriptionTest()",
+    "uid" : "4a70d2aa01d4fd68",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600349284112,
+      "stop" : 1600349284113,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "allureSimpleDescriptionTest()",
+    "uid" : "9df6ca8e989d45ca",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600349284116,
+      "stop" : 1600349284117,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ],
+  "name" : "behaviors"
+}
