@@ -1,0 +1,59 @@
+{
+  "total" : 5,
+  "items" : [ {
+    "uid" : "dee74cec7e4ee5cd57e990a492c3e25a",
+    "name" : "io.qameta.allure.examples.AllureBehaviorsMappingTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "e16b1c8492ee5616c8ad8c11aecda3a7",
+    "name" : "io.qameta.allure.examples.AllureStepTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "45eafa1cc9162d8dd89f24262e5295e3",
+    "name" : "io.qameta.allure.examples.AllureTestParametersTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "ce5cf656aa8e3571c5baf5373d982835",
+    "name" : "io.qameta.allure.examples.AllureAttachmentTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "994164e9d034d6376dded19e84839caa",
+    "name" : "Suite from lambda annotation",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

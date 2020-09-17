@@ -1,0 +1,59 @@
+{
+  "total" : 12,
+  "items" : [ {
+    "uid" : "a1197bcb9c99df85af470b978a356ada",
+    "name" : "Epic from class annotation",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "c415968b7d5b0462919a9c7b0634b825",
+    "name" : "Epic from lambda method",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "38454dd1f8fe3dbacb46fcc8f5d2b5be",
+    "name" : "Epic from test annotation",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "c9c92410a5197b7284421e85cd8888c0",
+    "name" : "Epic2 from test annotation",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "0b55dcde6ea7eb64765ba7715e8abec0",
+    "name" : "Epic2 from lambda method",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

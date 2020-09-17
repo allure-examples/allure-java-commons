@@ -1,0 +1,92 @@
+{
+  "uid" : "be00cc80d43a3294",
+  "name" : "allureLambdaSuiteTest()",
+  "fullName" : "io.qameta.allure.examples.AllureBehaviorsMappingTest.allureLambdaSuiteTest",
+  "historyId" : "d4b5033273f65acdf244a9bcbe2c1889",
+  "time" : {
+    "start" : 1600328325255,
+    "stop" : 1600328325257,
+    "duration" : 2
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Feature from class annotation"
+  }, {
+    "name" : "story",
+    "value" : "Story2 from class annotation"
+  }, {
+    "name" : "epic",
+    "value" : "Epic from class annotation"
+  }, {
+    "name" : "story",
+    "value" : "Story from class annotation"
+  }, {
+    "name" : "host",
+    "value" : "fv-az183"
+  }, {
+    "name" : "thread",
+    "value" : "4228@fv-az183.ForkJoinPool-1-worker-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.AllureBehaviorsMappingTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.AllureBehaviorsMappingTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "allureLambdaSuiteTest"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.AllureBehaviorsMappingTest"
+  }, {
+    "name" : "suite",
+    "value" : "Suite from lambda annotation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "997091d609c09a76",
+        "reportUrl" : "https://allure-examples.github.io/allure-java-commons/2//#testresult/997091d609c09a76",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600235245425,
+          "stop" : 1600235245428,
+          "duration" : 3
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "be00cc80d43a3294.json",
+  "parameterValues" : [ ]
+}
