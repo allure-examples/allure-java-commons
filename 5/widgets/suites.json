@@ -1,0 +1,114 @@
+{
+  "total" : 12,
+  "items" : [ {
+    "uid" : "21abd29d21b83faa6a86dfd8b961fcfb",
+    "name" : "io.qameta.allure.examples.AllureLinksTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 7
+    }
+  }, {
+    "uid" : "dee74cec7e4ee5cd57e990a492c3e25a",
+    "name" : "io.qameta.allure.examples.AllureBehaviorsMappingTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "a62e8daf2de2a679e411f9d958b95cb9",
+    "name" : "io.qameta.allure.examples.AllureSuiteTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "45eafa1cc9162d8dd89f24262e5295e3",
+    "name" : "io.qameta.allure.examples.AllureTestParametersTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "ce5cf656aa8e3571c5baf5373d982835",
+    "name" : "io.qameta.allure.examples.AllureAttachmentTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "c43bbae1407dcfa33bf5e07308166356",
+    "name" : "io.qameta.allure.examples.AllureTestDescriptionTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "60d5ee9ad71edcdf88b8379a16b2b2c9",
+    "name" : "io.qameta.allure.examples.AllureLambdaStepTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "832eb8918a5203ed53b9e0894a76b013",
+    "name" : "io.qameta.allure.examples.AllureLabelsTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "279e7a2642f621505c8f13c3daab1ae0",
+    "name" : "allure suite 2",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "a6a16228596a132b0af7cda629d7417b",
+    "name" : "allure suite 1",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

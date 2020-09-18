@@ -1,0 +1,251 @@
+[ {
+  "uid" : "4fad3735983a0e8a",
+  "name" : "allureLambdaTMSTest()",
+  "time" : {
+    "start" : 1600424617185,
+    "stop" : 1600424617186,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "270bff16773d4011",
+  "name" : "allureFeatureMappingTest()",
+  "time" : {
+    "start" : 1600424617310,
+    "stop" : 1600424617313,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e67155a080aa824f",
+  "name" : "allureSuite2Test()",
+  "time" : {
+    "start" : 1600424617205,
+    "stop" : 1600424617205,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6de33f5231dafb4b",
+  "name" : "allureSuiteTest()",
+  "time" : {
+    "start" : 1600424617216,
+    "stop" : 1600424617216,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "44a03324dbd0be52",
+  "name" : "allureSimpleStepTest()",
+  "time" : {
+    "start" : 1600424617342,
+    "stop" : 1600424617346,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c7c1bc04fbf4ff81",
+  "name" : "allureLambdaSuiteTest()",
+  "time" : {
+    "start" : 1600424617296,
+    "stop" : 1600424617296,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de7fa080a4c9be7",
+  "name" : "allureStoryMappingTest()",
+  "time" : {
+    "start" : 1600424617325,
+    "stop" : 1600424617325,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d6ee92a10197400c",
+  "name" : "allureAnnotationTMSTest()",
+  "time" : {
+    "start" : 1600424617174,
+    "stop" : 1600424617175,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "910de0e690ae8604",
+  "name" : "allureBehaviorsMappingTest()",
+  "time" : {
+    "start" : 1600424617330,
+    "stop" : 1600424617330,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "60211ebbfce6a925",
+  "name" : "allureLambdaLinkTest()",
+  "time" : {
+    "start" : 1600424617178,
+    "stop" : 1600424617179,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c927802816049f3e",
+  "name" : "allureLambdaBehaviorsMappingTest()",
+  "time" : {
+    "start" : 1600424617300,
+    "stop" : 1600424617300,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b2e8ab67201bd1eb",
+  "name" : "allureAttachmentAnnotationTest()",
+  "time" : {
+    "start" : 1600424617261,
+    "stop" : 1600424617287,
+    "duration" : 26
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e3b838281b4f246",
+  "name" : "allureSimpleAttachmentTest()",
+  "time" : {
+    "start" : 1600424617254,
+    "stop" : 1600424617259,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d9e4b7cf9eb0399d",
+  "name" : "allureEpicMappingTest()",
+  "time" : {
+    "start" : 1600424617318,
+    "stop" : 1600424617319,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4f16e73ddc700068",
+  "name" : "allureAnnotationLinkTest()",
+  "time" : {
+    "start" : 1600424617195,
+    "stop" : 1600424617197,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "16886c4fed161cd6",
+  "name" : "allureLambdaIssueTest()",
+  "time" : {
+    "start" : 1600424617191,
+    "stop" : 1600424617192,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "989d9e8677eaa10e",
+  "name" : "allureOneParamLinkTest()",
+  "time" : {
+    "start" : 1600424617200,
+    "stop" : 1600424617201,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a215326aef70177a",
+  "name" : "allureLabelTest()",
+  "time" : {
+    "start" : 1600424617013,
+    "stop" : 1600424617041,
+    "duration" : 28
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "491ce05f131d6b79",
+  "name" : "allureHTMLDescriptionTest()",
+  "time" : {
+    "start" : 1600424617334,
+    "stop" : 1600424617336,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "26a9af5df86a6570",
+  "name" : "allureSimpleDescriptionTest()",
+  "time" : {
+    "start" : 1600424617338,
+    "stop" : 1600424617338,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68d704f43f64f522",
+  "name" : "allureOneTestParameterTest()",
+  "time" : {
+    "start" : 1600424617234,
+    "stop" : 1600424617236,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "38db1bc1e92da622",
+  "name" : "allureLambdaStepTest()",
+  "time" : {
+    "start" : 1600424617354,
+    "stop" : 1600424617371,
+    "duration" : 17
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "67f97f68c30d6fa1",
+  "name" : "allureAnnotationIssueTest()",
+  "time" : {
+    "start" : 1600424617182,
+    "stop" : 1600424617183,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5da934c685ea2218",
+  "name" : "allureTestParametersTest()",
+  "time" : {
+    "start" : 1600424617223,
+    "stop" : 1600424617229,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "422b58b23879ec16",
+  "name" : "allureStepAnnotationTest()",
+  "time" : {
+    "start" : 1600424617374,
+    "stop" : 1600424617388,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

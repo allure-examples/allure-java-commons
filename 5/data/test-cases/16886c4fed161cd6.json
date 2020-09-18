@@ -1,0 +1,61 @@
+{
+  "uid" : "16886c4fed161cd6",
+  "name" : "allureLambdaIssueTest()",
+  "fullName" : "io.qameta.allure.examples.AllureLinksTest.allureLambdaIssueTest",
+  "historyId" : "4d077a37b5304ba16d1370dcb7d0d93b",
+  "time" : {
+    "start" : 1600424617191,
+    "stop" : 1600424617192,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az56"
+  }, {
+    "name" : "thread",
+    "value" : "4198@fv-az56.ForkJoinPool-1-worker-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.AllureLinksTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.AllureLinksTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "allureLambdaIssueTest"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.AllureLinksTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "GitHub Issue (issue)",
+    "url" : "https://github.com/allure-examples/allure-examples/issues/12",
+    "type" : "issue"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "16886c4fed161cd6.json",
+  "parameterValues" : [ ]
+}

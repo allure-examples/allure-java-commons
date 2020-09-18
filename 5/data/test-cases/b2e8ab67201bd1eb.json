@@ -1,0 +1,133 @@
+{
+  "uid" : "b2e8ab67201bd1eb",
+  "name" : "allureAttachmentAnnotationTest()",
+  "fullName" : "io.qameta.allure.examples.AllureAttachmentTest.allureAttachmentAnnotationTest",
+  "historyId" : "7e2cb2a5a619dac4c42229f34d56b18",
+  "time" : {
+    "start" : 1600424617261,
+    "stop" : 1600424617287,
+    "duration" : 26
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2ed5d5c1e545d2e7",
+      "name" : "Attachment name: test.txt",
+      "source" : "2ed5d5c1e545d2e7.txt",
+      "type" : "text/plain",
+      "size" : 16
+    }, {
+      "uid" : "9f7c1b2d5588442b",
+      "name" : "Attachment name: index.html",
+      "source" : "9f7c1b2d5588442b.html",
+      "type" : "text/html",
+      "size" : 25
+    }, {
+      "uid" : "13a62bcf200930f9",
+      "name" : "XML_file",
+      "source" : "13a62bcf200930f9.xml",
+      "type" : "text/xml",
+      "size" : 23
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az56"
+  }, {
+    "name" : "thread",
+    "value" : "4198@fv-az56.ForkJoinPool-1-worker-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.AllureAttachmentTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.AllureAttachmentTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "allureAttachmentAnnotationTest"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.AllureAttachmentTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "b1eadc5902274a71",
+        "reportUrl" : "https://allure-examples.github.io/allure-java-commons/4//#testresult/b1eadc5902274a71",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600349284030,
+          "stop" : 1600349284048,
+          "duration" : 18
+        }
+      }, {
+        "uid" : "a518098e187f2ee1",
+        "reportUrl" : "https://allure-examples.github.io/allure-java-commons/3//#testresult/a518098e187f2ee1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600328325224,
+          "stop" : 1600328325244,
+          "duration" : 20
+        }
+      }, {
+        "uid" : "8b8f2a2b88ccc3d6",
+        "reportUrl" : "https://allure-examples.github.io/allure-java-commons/2//#testresult/8b8f2a2b88ccc3d6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600235245387,
+          "stop" : 1600235245405,
+          "duration" : 18
+        }
+      }, {
+        "uid" : "72d26c9ed89a6fea",
+        "reportUrl" : "https://allure-examples.github.io/allure-java-commons/1//#testresult/72d26c9ed89a6fea",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600179564667,
+          "stop" : 1600179564688,
+          "duration" : 21
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "b2e8ab67201bd1eb.json",
+  "parameterValues" : [ ]
+}

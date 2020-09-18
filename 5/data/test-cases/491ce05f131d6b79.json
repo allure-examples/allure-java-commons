@@ -1,0 +1,78 @@
+{
+  "uid" : "491ce05f131d6b79",
+  "name" : "allureHTMLDescriptionTest()",
+  "fullName" : "io.qameta.allure.examples.AllureTestDescriptionTest.allureHTMLDescriptionTest",
+  "historyId" : "f582fabad1d890f15b612ca7bfce3e8c",
+  "time" : {
+    "start" : 1600424617334,
+    "stop" : 1600424617336,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "<div style='border:1px black solid'><h2>HTML</h2><b>test</b> <i>description</i><br><div style='color:red'>new line</div>",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az56"
+  }, {
+    "name" : "thread",
+    "value" : "4198@fv-az56.ForkJoinPool-1-worker-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.AllureTestDescriptionTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.AllureTestDescriptionTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "allureHTMLDescriptionTest"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.AllureTestDescriptionTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "4a70d2aa01d4fd68",
+        "reportUrl" : "https://allure-examples.github.io/allure-java-commons/4//#testresult/4a70d2aa01d4fd68",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600349284112,
+          "stop" : 1600349284113,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "491ce05f131d6b79.json",
+  "parameterValues" : [ ]
+}

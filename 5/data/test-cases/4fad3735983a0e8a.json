@@ -1,0 +1,61 @@
+{
+  "uid" : "4fad3735983a0e8a",
+  "name" : "allureLambdaTMSTest()",
+  "fullName" : "io.qameta.allure.examples.AllureLinksTest.allureLambdaTMSTest",
+  "historyId" : "d9bab7094ffe2ef269cbf994b2df4d23",
+  "time" : {
+    "start" : 1600424617185,
+    "stop" : 1600424617186,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az56"
+  }, {
+    "name" : "thread",
+    "value" : "4198@fv-az56.ForkJoinPool-1-worker-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.AllureLinksTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.AllureLinksTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "allureLambdaTMSTest"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.AllureLinksTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "GitHub Tms (tms)",
+    "url" : "https://github.com/allure-examples/allure-examples/blob/master/allure-java-commons/README.md",
+    "type" : "tms"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4fad3735983a0e8a.json",
+  "parameterValues" : [ ]
+}

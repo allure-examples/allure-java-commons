@@ -1,0 +1,157 @@
+{
+  "uid" : "e3b838281b4f246",
+  "name" : "allureSimpleAttachmentTest()",
+  "fullName" : "io.qameta.allure.examples.AllureAttachmentTest.allureSimpleAttachmentTest",
+  "historyId" : "9c0115edfb38e55a9d98b06f9e72a0df",
+  "time" : {
+    "start" : 1600424617254,
+    "stop" : 1600424617259,
+    "duration" : 5
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ff0d931682e5c164",
+      "name" : "file1.txt",
+      "source" : "ff0d931682e5c164.txt",
+      "type" : "text/plain",
+      "size" : 16
+    }, {
+      "uid" : "84d5c8f1357580a",
+      "name" : "file2.txt",
+      "source" : "84d5c8f1357580a.txt",
+      "type" : "text/plain",
+      "size" : 16
+    }, {
+      "uid" : "189a9528e10f430e",
+      "name" : "file3.txt",
+      "source" : "189a9528e10f430e.txt",
+      "type" : "text/plain",
+      "size" : 16
+    }, {
+      "uid" : "b81ad4a51043b53c",
+      "name" : "file4.txt",
+      "source" : "b81ad4a51043b53c.txt",
+      "type" : "text/plain",
+      "size" : 16
+    }, {
+      "uid" : "2b934e090c70b889",
+      "name" : "content1.xml",
+      "source" : "2b934e090c70b889.xml",
+      "type" : "application/xml",
+      "size" : 58
+    }, {
+      "uid" : "41fd9f53dff4706a",
+      "name" : "content2.xml",
+      "source" : "41fd9f53dff4706a.xml",
+      "type" : "application/xml",
+      "size" : 58
+    }, {
+      "uid" : "352389d0cac86afb",
+      "name" : "content3.xml",
+      "source" : "352389d0cac86afb.xml",
+      "type" : "text/xml",
+      "size" : 58
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 7,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az56"
+  }, {
+    "name" : "thread",
+    "value" : "4198@fv-az56.ForkJoinPool-1-worker-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.AllureAttachmentTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.AllureAttachmentTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "allureSimpleAttachmentTest"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.AllureAttachmentTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "b94a2aed3cf184bb",
+        "reportUrl" : "https://allure-examples.github.io/allure-java-commons/4//#testresult/b94a2aed3cf184bb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600349284015,
+          "stop" : 1600349284024,
+          "duration" : 9
+        }
+      }, {
+        "uid" : "7e95bb417d1bce5e",
+        "reportUrl" : "https://allure-examples.github.io/allure-java-commons/3//#testresult/7e95bb417d1bce5e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600328325205,
+          "stop" : 1600328325217,
+          "duration" : 12
+        }
+      }, {
+        "uid" : "5b0618bc3fa6a1b1",
+        "reportUrl" : "https://allure-examples.github.io/allure-java-commons/2//#testresult/5b0618bc3fa6a1b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600235245372,
+          "stop" : 1600235245383,
+          "duration" : 11
+        }
+      }, {
+        "uid" : "8d67c8b5dc65a2cf",
+        "reportUrl" : "https://allure-examples.github.io/allure-java-commons/1//#testresult/8d67c8b5dc65a2cf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600179564655,
+          "stop" : 1600179564660,
+          "duration" : 5
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "e3b838281b4f246.json",
+  "parameterValues" : [ ]
+}

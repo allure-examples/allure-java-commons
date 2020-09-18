@@ -1,0 +1,113 @@
+{
+  "uid" : "de7fa080a4c9be7",
+  "name" : "allureStoryMappingTest()",
+  "fullName" : "io.qameta.allure.examples.AllureBehaviorsMappingTest.allureStoryMappingTest",
+  "historyId" : "989a6c6c2add06dbf2dd1161a2c9caa4",
+  "time" : {
+    "start" : 1600424617325,
+    "stop" : 1600424617325,
+    "duration" : 0
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "Epic from class annotation"
+  }, {
+    "name" : "story",
+    "value" : "Story2 from class annotation"
+  }, {
+    "name" : "feature",
+    "value" : "Feature from class annotation"
+  }, {
+    "name" : "story",
+    "value" : "Story from class annotation"
+  }, {
+    "name" : "story",
+    "value" : "Story2 from test annotation"
+  }, {
+    "name" : "host",
+    "value" : "fv-az56"
+  }, {
+    "name" : "thread",
+    "value" : "4198@fv-az56.ForkJoinPool-1-worker-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.AllureBehaviorsMappingTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.AllureBehaviorsMappingTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "allureStoryMappingTest"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.AllureBehaviorsMappingTest"
+  }, {
+    "name" : "story",
+    "value" : "Story2 from lambda method"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "bb1a073dd03905dd",
+        "reportUrl" : "https://allure-examples.github.io/allure-java-commons/4//#testresult/bb1a073dd03905dd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600349284093,
+          "stop" : 1600349284094,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "961ef5d306ce613c",
+        "reportUrl" : "https://allure-examples.github.io/allure-java-commons/3//#testresult/961ef5d306ce613c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600328325288,
+          "stop" : 1600328325290,
+          "duration" : 2
+        }
+      }, {
+        "uid" : "a76dc7ba711892ef",
+        "reportUrl" : "https://allure-examples.github.io/allure-java-commons/2//#testresult/a76dc7ba711892ef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600235245454,
+          "stop" : 1600235245457,
+          "duration" : 3
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "de7fa080a4c9be7.json",
+  "parameterValues" : [ ]
+}
