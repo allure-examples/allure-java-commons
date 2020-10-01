@@ -1,0 +1,80 @@
+{
+  "uid" : "8c1434eddd45c4f9",
+  "name" : "allureSuiteTest()",
+  "fullName" : "io.qameta.allure.examples.AllureSuiteTest.allureSuiteTest",
+  "historyId" : "5d4bd47f073b85da10e8fffb1a7d141e",
+  "time" : {
+    "start" : 1601527612850,
+    "stop" : 1601527612850,
+    "duration" : 0
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az67"
+  }, {
+    "name" : "thread",
+    "value" : "4858@fv-az67.ForkJoinPool-1-worker-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.AllureSuiteTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.AllureSuiteTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "allureSuiteTest"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.AllureSuiteTest"
+  }, {
+    "name" : "suite",
+    "value" : "allure suite 1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "6de33f5231dafb4b",
+        "reportUrl" : "https://allure-examples.github.io/allure-java-commons/5//#testresult/6de33f5231dafb4b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600424617216,
+          "stop" : 1600424617216,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "8c1434eddd45c4f9.json",
+  "parameterValues" : [ ]
+}

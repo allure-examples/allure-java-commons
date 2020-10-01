@@ -1,0 +1,82 @@
+{
+  "uid" : "3557ea143b866184",
+  "name" : "allureOneParamLinkTest()",
+  "fullName" : "io.qameta.allure.examples.AllureLinksTest.allureOneParamLinkTest",
+  "historyId" : "30c296877dbf40b31f187c648f9ec9a2",
+  "time" : {
+    "start" : 1601527612841,
+    "stop" : 1601527612843,
+    "duration" : 2
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az67"
+  }, {
+    "name" : "thread",
+    "value" : "4858@fv-az67.ForkJoinPool-1-worker-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.AllureLinksTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.AllureLinksTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "allureOneParamLinkTest"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.AllureLinksTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "https://docs.qameta.io",
+    "type" : "custom"
+  }, {
+    "url" : "https://docs.qameta.io"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "989d9e8677eaa10e",
+        "reportUrl" : "https://allure-examples.github.io/allure-java-commons/5//#testresult/989d9e8677eaa10e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600424617200,
+          "stop" : 1600424617201,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "3557ea143b866184.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,81 @@
+{
+  "uid" : "e7cace84e97f61dd",
+  "name" : "allureAnnotationTMSTest()",
+  "fullName" : "io.qameta.allure.examples.AllureLinksTest.allureAnnotationTMSTest",
+  "historyId" : "b2464611d79005f922958b9d3fbddc73",
+  "time" : {
+    "start" : 1601527612794,
+    "stop" : 1601527612795,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az67"
+  }, {
+    "name" : "thread",
+    "value" : "4858@fv-az67.ForkJoinPool-1-worker-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.AllureLinksTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.AllureLinksTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "allureAnnotationTMSTest"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.AllureLinksTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "https://github.com/allure-examples/allure-examples/blob/master/allure-java-commons/README.md",
+    "url" : "https://github.com/allure-examples/allure-examples/blob/master/allure-java-commons/README.md",
+    "type" : "tms"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "d6ee92a10197400c",
+        "reportUrl" : "https://allure-examples.github.io/allure-java-commons/5//#testresult/d6ee92a10197400c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600424617174,
+          "stop" : 1600424617175,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "e7cace84e97f61dd.json",
+  "parameterValues" : [ ]
+}

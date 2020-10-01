@@ -1,0 +1,88 @@
+{
+  "uid" : "6edaceb8b46a7cee",
+  "name" : "allureLambdaLinkTest()",
+  "fullName" : "io.qameta.allure.examples.AllureLinksTest.allureLambdaLinkTest",
+  "historyId" : "2bdc0902811b2ed98274b82d7e81e755",
+  "time" : {
+    "start" : 1601527612799,
+    "stop" : 1601527612800,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az67"
+  }, {
+    "name" : "thread",
+    "value" : "4858@fv-az67.ForkJoinPool-1-worker-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.AllureLinksTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.AllureLinksTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "allureLambdaLinkTest"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.AllureLinksTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "Allure Docs (link)",
+    "url" : "https://docs.qameta.io"
+  }, {
+    "name" : "GitHub Issue (link)",
+    "url" : "https://github.com/allure-examples/allure-examples/issues/12",
+    "type" : "issue"
+  }, {
+    "name" : "GitHub Tms (link)",
+    "url" : "https://github.com/allure-examples/allure-examples/blob/master/allure-java-commons/README.md",
+    "type" : "tms"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "60211ebbfce6a925",
+        "reportUrl" : "https://allure-examples.github.io/allure-java-commons/5//#testresult/60211ebbfce6a925",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600424617178,
+          "stop" : 1600424617179,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "6edaceb8b46a7cee.json",
+  "parameterValues" : [ ]
+}
